@@ -42,19 +42,12 @@
   </a>
   <!-- Repos per Language -->
   <a href="https://github.com/monkeyKing001">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monkeyKing001&theme=tokyonight" alt="Repos per Language" style="width: 300px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monkeyKing001&theme=tokyonight" alt="Repos per Language" style="width: 330px;" />
   </a>
   <!-- Most Commit Language -->
   <a href="https://github.com/monkeyKing001">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=monkeyKing001&theme=tokyonight" alt="Most Commit Language" style="width: 300px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=monkeyKing001&theme=tokyonight" alt="Most Commit Language" style="width: 330px;" />
   </a>
-  <!-- Stats -->
-  <a href="https://github.com/monkeyKing001">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=monkeyKing001&theme=tokyonight" alt="Stats" style="width: 300px;" />
-  </a>
-  <!-- Productive Time -->
-  <a href="https://github.com/monkeyKing001">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monkeyKing001&theme=tokyonight&utcOffset=9" alt="Productive Time" style="width: 300px;" />
   </a>
 </div> 
 </div>
