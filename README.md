@@ -5,7 +5,7 @@
 </div>
 <div style="text-align: left;"> 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요, 곽동우입니다. </h2>  
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 개발을 좋아하고 더 잘하고 싶은 개발자, 곽동우입니다. </div> 
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 자기소개 없음. </div> 
 </div>
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
